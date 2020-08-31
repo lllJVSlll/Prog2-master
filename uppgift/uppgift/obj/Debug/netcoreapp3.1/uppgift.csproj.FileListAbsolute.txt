@@ -1,0 +1,12 @@
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\uppgift\uppgift\bin\Debug\netcoreapp3.1\uppgift.exe
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\uppgift\uppgift\bin\Debug\netcoreapp3.1\uppgift.deps.json
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\uppgift\uppgift\bin\Debug\netcoreapp3.1\uppgift.runtimeconfig.json
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\uppgift\uppgift\bin\Debug\netcoreapp3.1\uppgift.runtimeconfig.dev.json
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\uppgift\uppgift\bin\Debug\netcoreapp3.1\uppgift.dll
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\uppgift\uppgift\bin\Debug\netcoreapp3.1\uppgift.pdb
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\uppgift\uppgift\obj\Debug\netcoreapp3.1\uppgift.AssemblyInfoInputs.cache
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\uppgift\uppgift\obj\Debug\netcoreapp3.1\uppgift.AssemblyInfo.cs
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\uppgift\uppgift\obj\Debug\netcoreapp3.1\uppgift.csproj.CoreCompileInputs.cache
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\uppgift\uppgift\obj\Debug\netcoreapp3.1\uppgift.dll
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\uppgift\uppgift\obj\Debug\netcoreapp3.1\uppgift.pdb
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\uppgift\uppgift\obj\Debug\netcoreapp3.1\uppgift.genruntimeconfig.cache

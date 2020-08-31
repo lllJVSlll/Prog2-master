@@ -6,4 +6,8 @@
     <RootNamespace>Prog_2</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\Prog 2\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
 </Project>
