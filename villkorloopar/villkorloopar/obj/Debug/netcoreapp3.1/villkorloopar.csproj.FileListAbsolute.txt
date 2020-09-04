@@ -1,0 +1,13 @@
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\villkorloopar\villkorloopar\bin\Debug\netcoreapp3.1\villkorloopar.exe
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\villkorloopar\villkorloopar\bin\Debug\netcoreapp3.1\villkorloopar.deps.json
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\villkorloopar\villkorloopar\bin\Debug\netcoreapp3.1\villkorloopar.runtimeconfig.json
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\villkorloopar\villkorloopar\bin\Debug\netcoreapp3.1\villkorloopar.runtimeconfig.dev.json
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\villkorloopar\villkorloopar\bin\Debug\netcoreapp3.1\villkorloopar.dll
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\villkorloopar\villkorloopar\bin\Debug\netcoreapp3.1\villkorloopar.pdb
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\villkorloopar\villkorloopar\obj\Debug\netcoreapp3.1\villkorloopar.csprojAssemblyReference.cache
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\villkorloopar\villkorloopar\obj\Debug\netcoreapp3.1\villkorloopar.AssemblyInfoInputs.cache
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\villkorloopar\villkorloopar\obj\Debug\netcoreapp3.1\villkorloopar.AssemblyInfo.cs
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\villkorloopar\villkorloopar\obj\Debug\netcoreapp3.1\villkorloopar.csproj.CoreCompileInputs.cache
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\villkorloopar\villkorloopar\obj\Debug\netcoreapp3.1\villkorloopar.dll
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\villkorloopar\villkorloopar\obj\Debug\netcoreapp3.1\villkorloopar.pdb
+C:\Users\johan.simonsen\Documents\GitHub\Prog2-master\villkorloopar\villkorloopar\obj\Debug\netcoreapp3.1\villkorloopar.genruntimeconfig.cache
