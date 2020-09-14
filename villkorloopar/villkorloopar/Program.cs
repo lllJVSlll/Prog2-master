@@ -47,6 +47,7 @@ namespace villkorloopar
 
             while (snusar)
             {
+
                 Console.WriteLine("OM MAN HAR SNUS LEVER MAN ETT GÖTT LIV!");
             }
 
